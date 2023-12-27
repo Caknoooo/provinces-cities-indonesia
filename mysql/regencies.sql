@@ -558,9 +558,9 @@ INSERT INTO `regencies` (`id`, `province_id`, `regency`, `type`) VALUES
 --
 
 --
--- Indeks untuk tabel `indonesian_provincies_cities`
+-- Indeks untuk tabel `regencies`
 --
-ALTER TABLE `indonesian_provincies_cities`
+ALTER TABLE `regencies`
   ADD PRIMARY KEY (`id`);
 COMMIT;
 
