@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <id>11</id>
+    <province>Aceh (NAD)</province>
+  </row>
+  <row>
+    <id>12</id>
+    <province>Sumatera Utara</province>
+  </row>
+  <row>
+    <id>13</id>
+    <province>Sumatera Barat</province>
+  </row>
+  <row>
+    <id>14</id>
+    <province>Riau</province>
+  </row>
+  <row>
+    <id>15</id>
+    <province>Jambi</province>
+  </row>
+  <row>
+    <id>16</id>
+    <province>Sumatera Selatan</province>
+  </row>
+  <row>
+    <id>17</id>
+    <province>Bengkulu</province>
+  </row>
+  <row>
+    <id>18</id>
+    <province>Lampung</province>
+  </row>
+  <row>
+    <id>19</id>
+    <province>Kepulauan Bangka Belitung</province>
+  </row>
+  <row>
+    <id>21</id>
+    <province>Kepulauan Riau</province>
+  </row>
+  <row>
+    <id>31</id>
+    <province>Dki Jakarta</province>
+  </row>
+  <row>
+    <id>32</id>
+    <province>Jawa Barat</province>
+  </row>
+  <row>
+    <id>33</id>
+    <province>Jawa Tengah</province>
+  </row>
+  <row>
+    <id>34</id>
+    <province>Daerah Istimewa Yogyakarta</province>
+  </row>
+  <row>
+    <id>35</id>
+    <province>Jawa Timur</province>
+  </row>
+  <row>
+    <id>36</id>
+    <province>Banten</province>
+  </row>
+  <row>
+    <id>51</id>
+    <province>Bali</province>
+  </row>
+  <row>
+    <id>52</id>
+    <province>Nusa Tenggara Barat</province>
+  </row>
+  <row>
+    <id>53</id>
+    <province>Nusa Tenggara Timur</province>
+  </row>
+  <row>
+    <id>61</id>
+    <province>Kalimantan Barat</province>
+  </row>
+  <row>
+    <id>62</id>
+    <province>Kalimantan Tengah</province>
+  </row>
+  <row>
+    <id>63</id>
+    <province>Kalimantan Selatan</province>
+  </row>
+  <row>
+    <id>64</id>
+    <province>Kalimantan Timur</province>
+  </row>
+  <row>
+    <id>65</id>
+    <province>Kalimantan Utara</province>
+  </row>
+  <row>
+    <id>71</id>
+    <province>Sulawesi Utara</province>
+  </row>
+  <row>
+    <id>72</id>
+    <province>Sulawesi Tengah</province>
+  </row>
+  <row>
+    <id>73</id>
+    <province>Sulawesi Selatan</province>
+  </row>
+  <row>
+    <id>74</id>
+    <province>Sulawesi Tenggara</province>
+  </row>
+  <row>
+    <id>75</id>
+    <province>Gorontalo</province>
+  </row>
+  <row>
+    <id>76</id>
+    <province>Sulawesi Barat</province>
+  </row>
+  <row>
+    <id>81</id>
+    <province>Maluku</province>
+  </row>
+  <row>
+    <id>82</id>
+    <province>Maluku Utara</province>
+  </row>
+  <row>
+    <id>91</id>
+    <province>Papua</province>
+  </row>
+  <row>
+    <id>92</id>
+    <province>Papua Barat</province>
+  </row>
+  <row>
+    <id>93</id>
+    <province>Papua Selatan</province>
+  </row>
+  <row>
+    <id>94</id>
+    <province>Papua Tengah</province>
+  </row>
+  <row>
+    <id>95</id>
+    <province>Papua Pegunungan</province>
+  </row>
+  <row>
+    <id>96</id>
+    <province>Papua Barat Daya</province>
+  </row>
+</root>
