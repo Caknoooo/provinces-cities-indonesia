@@ -13,7 +13,7 @@ services:
       - 3306:3306
     volumes:
       - db_mysql:/var/lib/mysql
-      - ./db/init.sql:/docker-entrypoint-initdb.d/init.sql
+      - ./mysql/provinces_regencies_dump.sql:/docker-entrypoint-initdb.d/init.sql
     env_file:
       - .env
 
