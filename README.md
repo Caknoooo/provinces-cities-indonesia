@@ -13,7 +13,7 @@ make build
 make up
 ```
 
-## Entire Container
+## Exec Container
 ```
 docker exec -i image_name mysql -u db_user -p
 ```
