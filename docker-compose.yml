@@ -1,9 +1,9 @@
 version: '3.8'
 
 services:
-  mysql: 
+  mysql_db: 
     image: mysql:latest
-    container_name: mysql
+    container_name: mysql_db
     restart: always
     environment:
       - MYSQL_ROOT_PASSWORD=${DB_ROOT_PASSWORD}
